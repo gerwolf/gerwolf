@@ -8,7 +8,7 @@
 - 💞 Let’s collaborate on public (research) data infrastructure, novel data sources and data literacy
 - 📫 Reach out to me if you want to chat about life as a researcher, occupational choice and mentoring or Black Metal
 - 👍 Authenticity, honesty, genuine interest and care, courage, skill
-- 👎 Ignorance and carelessness, arrogance, abuse of power
+- 👎 Ignorance and carelessness, arrogance, abuse of power, cognitive dissonance
 
 <!---
 gerwolf/gerwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
